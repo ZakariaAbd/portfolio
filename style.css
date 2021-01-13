@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+img {
+    width: 50%;
+}
+
+img.tech-img {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    /* left: 700px; */
+}
+.sec-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #0A1218;
+    height: 100vh;
+}
+
+.lead {
+    position: relative;
+    top: 250px;
+    left: -350px;
+}
+
+.header {
+    font-size: 70px;
+}
+
+.name {
+    font-size: 13px;
+    width: 300px;
+    position: relative;
+    top: -200px;
+    left: 225px;
+}
